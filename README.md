@@ -6,7 +6,7 @@
 - Experience in SDLC: Working experience with Agile (Scrum and Kanban) and Waterfall models.
 - Other relevant experience:  6 years in industry software and mechanical engineering. Skilled and experienced in creating and analyzing diverse technical documentation, teaching, and scientific activities (PhD in robotics).
 ## 🧪 Testing Skills:
--  Specific Testing Types: Automated testing in JS (both UI and API), manual API testing, White box testing, Installation testing, Integration testing
+-  Specific Testing Types: Automated testing in JS/TS (both UI and API), manual API testing, White box testing, Installation testing, Integration testing
 - Functional/Non-functional Testing: Functional testing, Regression, Smoke Testing, GUI testing, Exploratory testing. 
 - Test Documentation: Requirement Analysis, Analyzing and reporting automation testing results, Test cases creation, Bug reporting, Test strategy/plan creation and maintenance.  
 ## 🚀 Technical Skills:
